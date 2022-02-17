@@ -1,0 +1,6 @@
+jmp\dto\User.class
+jmp\dto\DebitBankCard.class
+jmp\dto\BankCard.class
+jmp\dto\BankCardType.class
+jmp\dto\Subscription.class
+jmp\dto\CreditBankCard.class
